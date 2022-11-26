@@ -54,12 +54,6 @@ Technologies used in the project:
 *   Tailwind CSS
 
 
-<h2>👨‍💻 Authors </h2>
-
-- [@Faraaz2633](https://github.com/Faraaz2633)
-- [@Sakthi1112](https://github.com/Sakthi1112)
-- [@Magesh08](https://github.com/Magesh08)
-
 <h2>🙌 Contributors </h2>
 <a href = "https://github.com/Faraaz2633/au-cruncher/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=Faraaz2633/au-cruncher"/>
